@@ -176,9 +176,12 @@ The Motor Vehicle Collisions crash table contains details on the crash event. Ea
 ### Screenshots
 #### Running project via terminal
 <img src="./imgs/run.png"  weight="600" height="500"/>
+
 #### Pipeline Measures
 <img src="./imgs/measures.png"  weight="600" height="500"/>
+
 #### Data Validation
 <img src="./imgs/tests.png"  weight="600" height="500"/>
+
 #### Process log
 <img src="./imgs/log.png"  weight="600" height="500"/>
